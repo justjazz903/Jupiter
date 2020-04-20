@@ -1,0 +1,3 @@
+#Tomcat publish data
+#Mon Apr 20 15:23:48 CDT 2020
+org.eclipse.jst.jee.server\:Jupiter=C\:\\Users\\yo_yo\\Documents\\myProjects\\apache-tomcat-9.0.29\\wtpwebapps\\Jupiter
